@@ -64,5 +64,8 @@
     .contact .row form{
         margin:3rem 0;
     }
+    .content-about {
+        width: 100%;
+    }
 
  }

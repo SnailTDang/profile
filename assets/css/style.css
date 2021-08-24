@@ -219,7 +219,7 @@ header .navbar ul li a:hover{
     font-size: 1.8em;
     text-align: justify;
     padding: 0 2em;
-    width: 70%;
+    max-width: 900px;
 
 }
 .content-about > h2 {
@@ -281,7 +281,7 @@ header .navbar ul li a:hover{
 }
 
 .about .row .counter .box h3{
-    font-size: 2rem;
+    font-size: 2.2rem;
     color:#fff;
 }
 
@@ -322,7 +322,7 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container .box p{
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     color:#eee;
     padding: 1rem 0;
 }
